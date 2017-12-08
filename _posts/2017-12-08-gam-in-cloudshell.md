@@ -47,7 +47,7 @@ alias gam="/home/graham_dunn/bin/gam/gam"
 
 graham_dunn@cloudshell:~$ alias gam="/home/graham_dunn/bin/gam/gam"
 ```
-* `tar zxvf gam.tgz`
+* `tar zxvf gam-authfiles.tgz`
 * Upload files gam-onboard.sh support
 * ` chmod 755 gam-onboard.sh support-site-access.sh`
 * `sudo mv gam-onboard.sh support-site-access.sh /usr/local/bin`
