@@ -24,11 +24,6 @@ Adding gam alias to profile file /home/graham_dunn/.bashrc.
 
 Can you run a full browser on this machine? (usually Y for MacOS, N for Linux if you SSH into this machine) N
 
-GAM is now installed. Are you ready to set up a Google API project for GAM? (yes or no) yes
-Please enter your G Suite admin email address: graham.dunn@kik.com
-ERROR: /home/graham_dunn/bin/gam/oauth2service.json already exists. Please delete or rename it before attempting to create another project.
-Project creation failed. Trying again. Say N to skip project creation.
-
 GAM is now installed. Are you ready to set up a Google API project for GAM? (yes or no) no
 
 You can create an API project later by running:
